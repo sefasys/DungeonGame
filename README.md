@@ -2,14 +2,21 @@
 It is the dungeon game homework...
 
 Let me describe the game I created.
+
 The game has some special functionalities except the tutor wanted such as reading a book, changing swords etc.
+
 There are different swords, different creatures some of them wants to fight against you some of them just need to be patient.
+
 But the most important part is the story.
+
 This story is what I really tried to create. By reading books and dialogues with the creatures will help you to understand the mini-story of King Fyonir and his lover Lyra.
+
 
 The game can be easily compiled by make beacause I created the Makefile.
 
+
 This game has these functions:
+
 
 move <direction: up, down, left, right>: This function helps the player to change rooms.
 
