@@ -17,7 +17,7 @@ look: This function helps player to interact with the room and give some descrip
 
 inventory: This function shows the items that player has in the inventory. In inventory, you can store swords, potions, books.
 
-commands: this function is for reminding what to
+commands: this function is for reminding the player all the commands.
 
 pickup <itemname>: As the tutor wanted, this is the function how you can pickup the item and see it in your inventory.
 
@@ -25,7 +25,8 @@ read: If you have a book in your inventory by typing read you can see the books 
 
 delete: This is for the items that you want to delete from your inventory.
 
-equip: This is for the sword and basically it has the same functionality with reading function. You pick up the sword(if there is a sword in the room that you are in) then type equip then there it shows the 
+equip: This is for the sword and basically it has the same functionality with reading function. You pick up the sword(if there is a sword in the room that you are in) then type equip then there it shows the available swords in your inventory to change your weapon.
+
 interact: This function starts the interaction with a creature. If a creature is hostile you have to choose attack option, if it is not hostile then you can try to defuse them to communicate with them.
 This function is iterative and it goes until the fight ends or you defuse the creature.
 
